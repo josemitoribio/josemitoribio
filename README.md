@@ -4,7 +4,6 @@
 
 ### 🚀 **¿Qué encontrarás en mi GitHub?**
 - **Proyectos Front End:** Aplicaciones web interactivas desarrolladas con **React**, **HTML5**, **CSS3**, y optimizadas para una gran **experiencia de usuario**.
-- **Motion Graphics & Multimedia:** Trabajo en proyectos que integran mi experiencia creativa en la edición de video y animación para soluciones web más visuales y dinámicas.
 - **Open Source Contributions:** Comprometido con el aprendizaje continuo, también colaboro en proyectos de código abierto y desarrollo soluciones que pueden beneficiar a la comunidad.
 
 ### 💡 **En constante evolución**
