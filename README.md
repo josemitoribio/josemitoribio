@@ -1,6 +1,6 @@
 ### 👋 ¡Hola! Soy Josemi Toribio
 
-**Desarrollador Front End Junior** con una gran pasión por el diseño interactivo y la creatividad digital. En mi repositorio, encontrarás proyectos que combinan **JavaScript** y **TypeScript** entre otras skills
+**Desarrollador Front End Junior** con una gran pasión por el diseño interactivo y la creatividad digital. En mi repositorio, encontrarás proyectos que combinan **JavaScript** y **TypeScript** entre otras skills.
 
 ### 🚀 **¿Qué encontrarás en mi GitHub?**
 - **Proyectos Front End:** Aplicaciones web interactivas desarrolladas con **React**, **HTML5**, **CSS3**, y optimizadas para una gran **experiencia de usuario**.
